@@ -1,4 +1,7 @@
 /target
 
+# Personal input files
+/input
+
 # IntelliJ
 .idea
