@@ -7,5 +7,6 @@ extern crate lazy_static;
 // mod day_x;
 mod day_1;
 mod day_2;
+mod day_3;
 
 aoc_main! { year = 2016 }
