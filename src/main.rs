@@ -11,6 +11,7 @@ mod day_3;
 mod day_4;
 // mod day_5;
 mod day_10;
+mod day_11;
 mod day_6;
 mod day_7;
 mod day_8;
