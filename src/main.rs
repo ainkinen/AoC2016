@@ -25,6 +25,7 @@ mod day_21;
 mod day_22;
 // mod day_23; // slow
 mod day_24;
+mod day_25;
 mod day_6;
 mod day_7;
 mod day_8;
